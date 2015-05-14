@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de521925-f0f5-41a9-aafe-8fd3b77a6606" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rename-me.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DayTwo" afterPath="$PROJECT_DIR$/../DayTwo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdi-lab5.html" afterPath="$PROJECT_DIR$/sdi-lab5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab4-errors/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sdi-lab4-errors/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dolak_Alexander_Lab5.js" afterPath="$PROJECT_DIR$/Dolak_Alexander_Lab5.js" />
     </list>
     <ignored path="sdi-lab5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,14 +37,13 @@
       <file leaf-file-name="Dolak_Alexander_Lab5.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dolak_Alexander_Lab5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9348442">
-              <caret line="68" column="107" selection-start-line="68" selection-start-column="107" selection-end-line="68" selection-end-column="107" />
+            <state vertical-scroll-proportion="0.3838527">
+              <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="n#!!block;n#addition#0" expanded="false" />
                 <element signature="n#!!block;n#subtraction#0" expanded="false" />
                 <element signature="n#!!block;n#multiplication#0" expanded="false" />
-                <element signature="n#!!block;n#division#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -227,14 +223,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dolak_Alexander_Lab5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9348442">
-          <caret line="68" column="107" selection-start-line="68" selection-start-column="107" selection-end-line="68" selection-end-column="107" />
+        <state vertical-scroll-proportion="0.3838527">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="n#!!block;n#addition#0" expanded="false" />
             <element signature="n#!!block;n#subtraction#0" expanded="false" />
             <element signature="n#!!block;n#multiplication#0" expanded="false" />
-            <element signature="n#!!block;n#division#0" expanded="false" />
           </folding>
         </state>
       </provider>

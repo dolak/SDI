@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0e2891-205b-4ded-a1f6-0b7ef0b65cbe" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../sdi-lab5/rename-me.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DayTwo" afterPath="$PROJECT_DIR$/../DayTwo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab5/sdi-lab5.html" afterPath="$PROJECT_DIR$/../sdi-lab5/sdi-lab5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab4-errors/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sdi-lab4-errors/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sdi-lab5/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab5/Dolak_Alexander_Lab5.js" afterPath="$PROJECT_DIR$/../sdi-lab5/Dolak_Alexander_Lab5.js" />
     </list>
     <ignored path="DayFive.iws" />
     <ignored path=".idea/workspace.xml" />

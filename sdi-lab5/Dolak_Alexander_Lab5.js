@@ -40,15 +40,20 @@ function multiplication(){
 function division(){
     var solution;
 
-    solution = (numOne / numTwo);
-
+    if(numOne === 0 || numTwo === 0){
+        solution = "You have opened up a worm hole somewhere for trying to divide nothing.";
+    } else {
+        solution = (numOne / numTwo);
+    }
     return(solution);
 }
 
+//These variables are catching the return values of the functions.
 var add     = addition();
 var sub     = subtraction();
 var multi   = multiplication();
 var divi    = division();
+
 //This if statement takes what function the user wanted, runs it and prints out the results
 if(choice === "+"){
     addition();
@@ -66,6 +71,7 @@ if(choice === "+"){
     division();
     console.log(divi);
 
-} else {//this is if they decide to mess with the choice and ask for something the program does not support
+//this is if they decide to mess with the choice and ask for something the program does not support
+} else {
     console.log("I am sorry I don't understand. Please re-run the program to try again.");
 }
