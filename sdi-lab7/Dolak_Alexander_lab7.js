@@ -15,7 +15,6 @@ function arrayOne(argArrayOne) {
 
     var newArrayOne = [];
     var modNum;
-    var zeroOrOne;
     //var newArgArray =  new Array(argArray);
 
 

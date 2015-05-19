@@ -4,7 +4,6 @@
     <list default="true" id="655d3844-9a6b-4f03-bf20-2f4bdc838431" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTwo" afterPath="$PROJECT_DIR$/DayTwo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdi-lab7/Dolak_Alexander_lab7.js" afterPath="$PROJECT_DIR$/sdi-lab7/Dolak_Alexander_lab7.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTwo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/DayTwo/.idea/workspace.xml" />
     </list>
     <ignored path="SDI.iws" />
@@ -49,7 +48,7 @@
                 <element signature="n#!!block;n#arrayOne#0" expanded="false" />
                 <element signature="n#!!block;n#arrayTwo#0" expanded="false" />
                 <element signature="n#!!block;n#arrayThree#0" expanded="false" />
-                <element signature="e#2113#3313#0" expanded="false" />
+                <element signature="e#2094#3294#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -244,14 +243,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="23" width="1425" height="797" extended-state="1" />
-    <editor active="false" />
+    <frame x="15" y="23" width="1425" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18175438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18175438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -304,7 +303,7 @@
             <element signature="n#!!block;n#arrayOne#0" expanded="false" />
             <element signature="n#!!block;n#arrayTwo#0" expanded="false" />
             <element signature="n#!!block;n#arrayThree#0" expanded="false" />
-            <element signature="e#2113#3313#0" expanded="false" />
+            <element signature="e#2094#3294#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -436,7 +435,7 @@
             <element signature="n#!!block;n#arrayOne#0" expanded="false" />
             <element signature="n#!!block;n#arrayTwo#0" expanded="false" />
             <element signature="n#!!block;n#arrayThree#0" expanded="false" />
-            <element signature="e#2113#3313#0" expanded="false" />
+            <element signature="e#2094#3294#0" expanded="false" />
           </folding>
         </state>
       </provider>
