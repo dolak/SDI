@@ -80,7 +80,7 @@ if(false) {
 //main code
 //console.log("The index is " + wheresAdam(myINdexOf))
 //console.log("we've returned " + substrFunction(mySubString));
-//console.log("The character at indec 7 is " + charAtFunction(myEmail));
+//console.log("The character at index 7 is " + charAtFunction(myEmail));
 //var returnedArray = splitString(mySplit);
 //console.log(returnedArray);
 //
