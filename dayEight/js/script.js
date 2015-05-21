@@ -7,7 +7,7 @@ SDI
 if(false) {
 //using .indexOf() // this is case sensitive
 //find if the substring "adam" appears in the string and where
-    var myINdexOf = "Madam, I'm Adam.";
+    var myIndexOf = "Madam, I'm Adam.";
 
 //using .lastIndexOf()
 //find if the substring "time" appears in the string and where
