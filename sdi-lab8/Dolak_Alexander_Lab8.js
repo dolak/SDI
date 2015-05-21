@@ -55,7 +55,7 @@ function nameSeparator(lineOne, lineTwo, lineThree){
 
             if (char != 0){
 
-                var currentChar = currentWord[char].toLowerCase();
+                var currentChar = currentWord[char];
                 newNameSep = newNameSep + currentChar;
 
 
