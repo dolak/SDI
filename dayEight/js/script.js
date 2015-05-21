@@ -117,7 +117,7 @@ if(false) {
 
                 if (char != 0){
 
-                    currentChar = currentWord[char].toLowerCase();
+                    var currentChar = currentWord[char].toLowerCase();
                     newWord = newWord + currentChar;
 
 
@@ -140,4 +140,3 @@ if(false) {
 
     console.log(returnedString);
 
-}
