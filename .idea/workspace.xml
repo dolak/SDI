@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="655d3844-9a6b-4f03-bf20-2f4bdc838431" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dayNine'/dayNine.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dayNine'/js/script.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Dolak_Alexander_lab7.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Dolak_Alexander_lab8.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sdi-lab8_aa94674b-d5f7-4586-9387-852453c73211.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTwo" afterPath="$PROJECT_DIR$/DayTwo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dayNine'/js/script.js" afterPath="$PROJECT_DIR$/dayNine'/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DayTwo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/DayTwo/.idea/workspace.xml" />
     </list>
     <ignored path="SDI.iws" />
@@ -36,14 +38,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dayNine'/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="e#242#860#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dolak_Alexander_lab8.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sdi-lab9/Dolak_Alexander_lab8.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.2857143">
+              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sdi-lab9.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sdi-lab9/sdi-lab9.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,6 +102,8 @@
         <option value="$PROJECT_DIR$/sdi-lab8/Dolak_Alexander_Lab8.js" />
         <option value="$PROJECT_DIR$/dayNine'/dayNine.html" />
         <option value="$PROJECT_DIR$/dayNine'/js/script.js" />
+        <option value="$PROJECT_DIR$/sdi-lab9/sdi-lab9.html" />
+        <option value="$PROJECT_DIR$/sdi-lab9/Dolak_Alexander_lab8.js" />
       </list>
     </option>
   </component>
@@ -148,7 +173,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sdi-lab8" />
+              <option name="myItemId" value="sdi-lab9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -162,25 +187,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dayNine'" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dayNine'" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="sdi-lab3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -311,7 +318,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="e#56#2226#0" expanded="false" />
           </folding>
         </state>
@@ -330,7 +337,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="e#56#2226#0" expanded="false" />
           </folding>
         </state>
@@ -363,7 +370,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="142" column="1" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="e#56#2226#0" expanded="false" />
           </folding>
         </state>
@@ -557,7 +564,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="140" selection-end-column="32" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="e#56#2226#0" expanded="false" />
           </folding>
         </state>
@@ -587,13 +594,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dayNine'/js/script.js">
+    <entry file="file://$PROJECT_DIR$/sdi-lab9/sdi-lab9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DayTwo/js/Script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdi-lab3/Dolak_Alexander_lab3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.13571429">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayNine'/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#242#860#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdi-lab9/Dolak_Alexander_lab8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2857143">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
