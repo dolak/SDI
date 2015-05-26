@@ -27,7 +27,11 @@ function lottoNum(nums, limNum){
 
     var rand = parseInt(Math.random() * limNum + 1);
 
+    for(var i = 0; i < nums.length; i++){
 
+
+
+    }
 
 }
 
