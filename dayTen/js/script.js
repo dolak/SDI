@@ -33,15 +33,27 @@ var returnedNumber;
 
 function findNumber(ardArray, argNumber){
     var nextGreatest = 0;
-
+    ardArray = argArray.sort();
     for (var i = 0; i < argArray.length; i++){
-        console.log(argarray[i]);
-        
+
+
+        if(argNumber < argArray[i]){
+
+
+
+            if(nextGreatest < argArray[i]) {
+
+                nextGreatest = argArray[i];
+
+            }
+
+
+        }
 
 
     }
 
-
+    return nextGreatest;
 }
 
 returnedNumber = findNumber(numArray, currentNumber);
