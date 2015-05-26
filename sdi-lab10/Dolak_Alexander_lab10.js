@@ -12,27 +12,27 @@ while(userPick.toLowerCase() != "powerball" && userPick.toLowerCase() != "florid
 }
 if (userPick.toLowerCase() === "powerball"){
 
-    numUsed = [5];
+    numUsed = [0, 1, 2, 3, 4];
     limitNum = 59;
 
 } else {
 
-    numUsed = [6];
+    numUsed = [0, 1, 2, 3, 4, 5];
     limitNum = 35;
 
 }
 
 
 function lottoNum(nums, limNum){
-
+    var numbersArray = nums;
     var rand = parseInt(Math.random() * limNum + 1);
 
-    for(var i = 0; i < nums.length; i++){
+    for(var i = 0; i < numbersArray.length; i++){
+    numbersArray[i] = rand;
 
-
-
+    console.log(rand);
     }
-
+    console.log(numbersArray);
 }
 
 returnedValue = lottoNum(numUsed, limitNum);
