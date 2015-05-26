@@ -28,11 +28,25 @@ function lottoNum(nums, limNum){
     var rand = parseInt(Math.random() * limNum + 1);
 
     for(var i = 0; i < numbersArray.length; i++){
-    numbersArray[i] = rand;
 
-    console.log(rand);
+
+        for(var k = 0; k < numbersArray.length; k++){
+
+            rand = parseInt(Math.random() * limNum + 1);
+            if(rand === numbersArray[i]){
+                rand = parseInt(Math.random() * limNum + 1);
+                numbersArray[i] = rand;
+            } else {
+
+                numbersArray[i] = rand;
+
+            }
+
+        }
+
+
     }
-    console.log(numbersArray);
+    return numbersArray;
 }
 
 returnedValue = lottoNum(numUsed, limitNum);
